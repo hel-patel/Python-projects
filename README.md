@@ -7,17 +7,17 @@ A simple Student Management System developed using Python and Object-Oriented Pr
 
 Features:
 
-Add Student
-Display All Students
-Search Student
+Add Student,
+Display All Students,
+Search Student,
 Delete Student
 
 Technologies Used:
 
-Python
-OOP Concepts
-Lists
-Functions and Loops
+Python,
+OOP Concepts,
+Lists,
+Functions and Loops,
 Menu-Driven Interface
 
 Purpose:
@@ -30,18 +30,18 @@ A simple Expense Tracker application developed using Python to manage and track 
 
 Features:
 
-Add New Expenses
-View All Expenses
-Calculate Total Expenses
-Track Daily Spending
+Add New Expenses,
+View All Expenses,
+Calculate Total Expenses,
+Track Daily Spending,
 Simple Menu-Driven Interface
 
 Technologies Used:
 
-Python
-Functions
-Lists
-Loops
+Python,
+Functions,
+Lists,
+Loops,
 Conditional Statements
 
 Purpose:
